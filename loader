@@ -1,0 +1,8 @@
+local thingy = game.PlaceId
+
+-- Check if the game ID matches the specified ID
+if thingy == 7449423635 then
+    print("nothing yet")
+else
+print("game not supportedg")
+end

@@ -1,4 +1,4 @@
-local thingy = game.PlaceID
+local thingy = game.PlaceId
 if thingy == 7449423635 or 4442272183 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/obsyhub/script/refs/heads/main/BloxFruits",true))()
 else

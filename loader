@@ -6,6 +6,10 @@ if thingy == 103754275310547
 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/obsyhub/script/refs/heads/main/HuntyZombie",true))()
 else
+if thingy == 126884695634066
+then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/obsyhub/script/refs/heads/main/Grow_a_Garden.txt",true))()
+else
 print("game not supportedg")
 end
 end

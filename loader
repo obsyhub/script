@@ -1,6 +1,6 @@
 local thingy = game.PlaceId
 
-if thingy == 7449423635 or thingy == 4442272183 or thingy == 101151419317285 or thingy == 2753915549 then
+if thingy == 7449423635 or thingy == 4442272183 or thingy == 101151419317285 or thingy == 2753915549 or thingy == 117896981438898 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/obsyhub/script/refs/heads/main/BloxFruits", true))()
 elseif thingy == 103754275310547 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/obsyhub/script/refs/heads/main/HuntyZombie", true))()
